@@ -2,6 +2,7 @@
 <div>
     <div>登录组件</div>
     <div>登录组件</div>
+     <div>登录组件</div>
 </div>
 
 </template> 
